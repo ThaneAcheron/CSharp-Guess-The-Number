@@ -1,0 +1,19 @@
+C:\Users\Craig\AppData\Local\Temporary Projects\CExercise1\bin\Debug\CExercise1.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\CExercise1\bin\Debug\CExercise1.pdb
+C:\Users\Craig\AppData\Local\Temporary Projects\CExercise1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\AppData\Local\Temporary Projects\CExercise1\obj\x86\Debug\CExercise1.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\CExercise1\obj\x86\Debug\CExercise1.pdb
+C:\Users\Craig\documents\visual studio 2010\Projects\CExercise1\CExercise1\obj\x86\Debug\CExercise1.exe
+C:\Users\Craig\documents\visual studio 2010\Projects\CExercise1\CExercise1\obj\x86\Debug\CExercise1.pdb
+C:\Users\Craig\documents\visual studio 2010\Projects\CExercise1\CExercise1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\documents\visual studio 2010\Projects\CExercise1\CExercise1\bin\Debug\CExercise1.exe
+C:\Users\Craig\documents\visual studio 2010\Projects\CExercise1\CExercise1\bin\Debug\CExercise1.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CExercise1\CExercise1\obj\x86\Debug\CExercise1.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CExercise1\CExercise1\obj\x86\Debug\CExercise1.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CExercise1\CExercise1\bin\Debug\CExercise1.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\CExercise1\CExercise1\bin\Debug\CExercise1.pdb
+C:\Users\Thane_Acheron\OneDrive\ThaneAcheron\Coding and Design\Miscellaneous\C#\CExercise1\CExercise1\obj\x86\Debug\CExercise1.exe
+C:\Users\Thane_Acheron\OneDrive\ThaneAcheron\Coding and Design\Miscellaneous\C#\CExercise1\CExercise1\obj\x86\Debug\CExercise1.pdb
+C:\Users\Thane_Acheron\OneDrive\ThaneAcheron\Coding and Design\Miscellaneous\C#\CExercise1\CExercise1\bin\Debug\CExercise1.exe
+C:\Users\Thane_Acheron\OneDrive\ThaneAcheron\Coding and Design\Miscellaneous\C#\CExercise1\CExercise1\bin\Debug\CExercise1.pdb
+C:\Users\Thane_Acheron\OneDrive\ThaneAcheron\Coding and Design\Miscellaneous\C#\CExercise1\CExercise1\obj\x86\Debug\CExercise1.csprojResolveAssemblyReference.cache
